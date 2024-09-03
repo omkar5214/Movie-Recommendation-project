@@ -1,1 +1,2 @@
 # Movie-Recommendation-project
+This project is a movie recommendation system that suggests similar movies based on content analysis using NLP techniques. It utilizes TF-IDF vectorization and cosine similarity to find and rank the most similar movies to a user’s favorite. The project includes visualizations of movie popularity and budget distribution. This was my project for the internship and training program by Acmegrade.
